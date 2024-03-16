@@ -3,4 +3,7 @@
 
 ### <b>PROJECTS</b>
 1. Froebel Junior School <br>
-[view project](https://froebeljuniorschool.co.ke/) 
+[view project](https://froebeljuniorschool.co.ke/)
+
+2. Froebel Junior School <br>
+[view project](https://froebelschool.co.ke/)
