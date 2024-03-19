@@ -3,7 +3,7 @@
 
 ### <b>PROJECTS</b>
 1. Froebel Junior School <br>
-A live school website
+A live school website  <br>
 [view project](https://froebeljuniorschool.co.ke/)
 
 2. School System - ***constantly updated*** <br>
