@@ -6,6 +6,6 @@ This project showcases the deployment of applications on a shared hosting platfo
 I have deployed both Django and WordPress applications, whose code can be modified to fit software or a website with an already defined UX and UI. 
 
 
-*[Django deployment](https://froebelschool.co.ke/django){:target="_blank"}* <br>
+*[Django deployment](https://froebelschool.co.ke/django){:target="_blank"}* 
 
 *[WordPress deployment](https://froebelschool.co.ke/wordpress){:target="_blank"}*
