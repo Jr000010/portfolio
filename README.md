@@ -6,7 +6,7 @@ A project that shows how a school system works. The complete system should inclu
 The features in this project are gradually updated, with only the website section currently complete.
 <br><br>
 
-I have deployed this system using both Django and WordPress.<br>
+I have deployed this system using both Django and WordPress.<br> 
 
 [Django deployment](https://froebelschool.co.ke/django){:target="_blank"} <br>
 
