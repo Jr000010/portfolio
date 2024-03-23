@@ -10,4 +10,4 @@ I have deployed this system using both Django and WordPress.<br>
 
 [Django deployment](https://froebelschool.co.ke/django){:target="_blank"} <br>
 
-[WordPress deployment](https://froebelschool.co.ke/wordPress){:target="_blank"}
+[WordPress deployment](https://froebelschool.co.ke/wordpress){:target="_blank"}
