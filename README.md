@@ -11,4 +11,4 @@ I have deployed both Django and WordPress applications, whose code can be modifi
 
 ***2. Frontend projects*** <br>
 These include frontend projects which I have worked on. <br>
-***[view projects](https://jr000010.github.io/frontend/)***
+***[view projects](https://jr000010.github.io/frontend/){:target="_blank"}***
