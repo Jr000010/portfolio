@@ -10,4 +10,5 @@ I have deployed both Django and WordPress applications, whose code can be modifi
 
 
 ***2. React JS projects*** <br>
-These are frontend projects which I have implemented using the React framework.
+These are frontend projects which I have implemented using the React framework. <br>
+***[view projects](https://jr000010.github.io/frontend/)***
