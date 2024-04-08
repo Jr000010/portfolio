@@ -9,6 +9,6 @@ I have deployed both Django and WordPress applications, whose code can be modifi
 *[WordPress deployment](https://froebelschool.co.ke/wordpress){:target="_blank"}*
 
 
-***2. React JS projects*** <br>
-These are frontend projects which I have implemented using the React framework. <br>
+***2. Frontend projects*** <br>
+These include frontend projects which I have worked on. <br>
 ***[view projects](https://jr000010.github.io/frontend/)***
