@@ -12,3 +12,10 @@ I have deployed both Django and WordPress applications, whose code can be modifi
 ***2. Frontend projects*** <br>
 These include frontend projects which I have worked on. <br>
 ***[view projects](https://jr000010.github.io/frontend/){:target="_blank"}***
+
+
+***2. Deploying a Single Page Application on a shared hosting environment*** <br>
+How to deploy a SPA using Cpanel. <br>
+***[read more](https://jr000010.github.io/frontend/SPAonCpanel/){:target="_blank"}***
+
+
