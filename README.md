@@ -3,7 +3,7 @@
 
 ***1. Blog website written in Django*** <br>
 A fictious blog website created using the Django framework. <br>
-***[Django deployment](https://jr000010.github.io/blogdemo/){:target="_blank"}*** <br>
+***[Link](https://jr000010.github.io/blogdemo/){:target="_blank"}*** <br>
 
 
 
