@@ -1,8 +1,8 @@
 #### Jann Adalla
 ### <b>PROJECTS</b>
 
-***1. Demo website written in Django*** <br>
-A fictious agency website created using the Django framework. <br>
+***1. Blog website written in Django*** <br>
+A fictious blog website created using the Django framework. <br>
 
 
 
