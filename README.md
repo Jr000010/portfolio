@@ -15,7 +15,7 @@ I have deployed both Django and WordPress applications, whose code can be modifi
 ***[Django deployment](https://froebelschool.co.ke/django){:target="_blank"}*** <br>
 ***[WordPress deployment](https://froebelschool.co.ke/wordpress){:target="_blank"}***
 
-
+ 
 
 ***3. Deploying a Single Page Application on a shared hosting environment*** <br>
 How to deploy a SPA using Cpanel. <br>
