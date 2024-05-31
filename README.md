@@ -25,6 +25,6 @@ How to deploy a SPA using Cpanel. <br>
 
 ***3. UX Design os a school website.*** <br>
 The UX Design of froebelschool.co.ke. <br>
-***[read more](https://jr000010.github.io/frontend/SPAonCpanel/)***
+***[read more](https://jr000010.github.io/Froebel-UX-Desin/){:target="_blank"}***
 
 
